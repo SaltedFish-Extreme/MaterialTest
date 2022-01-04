@@ -1,0 +1,11 @@
+<!--夜间主题差异型编程-->
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.MaterialTest" parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@android:color/darker_gray</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

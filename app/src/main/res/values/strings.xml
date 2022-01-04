@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MaterialTest</string>
+    <string name="settings">Settings</string>
+    <string name="quit">Exit</string>
+    <string name="backup">Backup</string>
+    <string name="delete">Delete</string>
+    <string name="call">Call</string>
+    <string name="friend">Friend</string>
+    <string name="location">Location</string>
+    <string name="mail">Mail</string>
+    <string name="task">Task</string>
+    <string name="name">SaltedFish-Extreme</string>
+    <string name="email">xianyuzhizun@gmail.com</string>
+</resources>
